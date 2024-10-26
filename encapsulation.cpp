@@ -8,17 +8,20 @@ class point
         int x, y;
 
     public:
-// constructor 
+        static int count;
+        // constructor 
         point()
         {
             this->x=0;
             this->y=0;
+            count++;
         }
 
         point(int x, int y)
         {
             this->x = x;
             this->y = y;
+            count++;
         }
 //getter
         int getX()
@@ -45,6 +48,7 @@ class point
 }
 };
 
+int point::count=0;
 int main()
 {
 
@@ -59,6 +63,7 @@ int main()
     //getter
     cout << "\nx: " << p2.getX();
     cout << "\ny: " << p2.getY();
+    cout<<"\ncount: "<<point::count;
     cout<<endl;
 
 // using parameterized constructor
@@ -72,6 +77,7 @@ int main()
     // getter
     cout << "\nx: " << p1.getX();
     cout << "\ny: " << p1.getY();
+    cout << "\ncount: " << point::count;
     cout << endl;
 
 // using dynamic memory allocation
@@ -85,6 +91,7 @@ int main()
     // getter
     cout << "\nx: " << p3->getX();
     cout << "\ny: " << p3->getY();
+    cout << "\ncount: " << point::count;
     delete p3;
     cout << endl;
 }

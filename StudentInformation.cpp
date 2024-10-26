@@ -29,11 +29,11 @@ public:
     // Default constructor
     Student()
     {
-        name = "akshada";
-        roll_number = 23010092;
+        name = "sanika";
+        roll_number = 24010011;
         class_name = "SE";
         division = "CS";
-        date_of_birth = "08/07/2005";
+        date_of_birth = "27/07/2005";
         blood_group = "O+";
         contact_address = "pune";
         telephone_number = 9322084169;
@@ -128,7 +128,7 @@ int main()
 
         Student::displayCount();
         // Creating student using parameterized constructor
-        Student *s2 = new Student("swaraj", 2310093, "SE", "CS", "29/03/1998", "O+", "khed", 12345, "DL12345");
+        Student *s2 = new Student("sumit", 24010012, "SE", "CS", "13/06/2006", "O+", "manchar", 789456123, "DL12345");
         s2->displayInfo();
 
         Student::displayCount();
