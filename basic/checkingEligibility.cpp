@@ -14,14 +14,15 @@ using namespace std;
 int main()
 {
     int age;
-    int min_age=20;
-    int max_age=34;
+    int x=20;  //minimun age
+    int y=34;   //maximum age
 
+    // Chef current age
     cout<<"Enter age to check eligibility for competitive exam: ";
     cin>>age;
 
 
-    if(age>=min_age && age< max_age)
+    if(age>=x && age< y)
     {
         cout<<"\n your are eligible for competetive exam";
     }
