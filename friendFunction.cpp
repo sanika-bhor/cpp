@@ -22,6 +22,7 @@ class Point
         }
 
         friend Point operator+ (Point p1, Point p2);
+        friend Point operator- (Point p1, Point p2);
 };
 
 Point operator+(Point p1, Point p2)
@@ -32,15 +33,26 @@ Point operator+(Point p1, Point p2)
     return temp;
 }
 
+Point operator-(Point p1, Point p2)
+{
+    Point temp;
+    temp.x = p1.x - p2.x;
+    temp.y = p1.y - p2.y;
+    return temp;
+}
+
 int main()
 {
     Point p1(5, 6);
     Point p2(4, 3);
     Point p3=p1+p2;
+    Point p4=p1-p2;
     cout<<"\n Point 1: ";
     p1.display();
     cout << "\n Point 2: ";
     p2.display();
     cout << "\n Addition: ";
     p3.display();
+    cout << "\n subtraction: ";
+    p4.display();
 }
