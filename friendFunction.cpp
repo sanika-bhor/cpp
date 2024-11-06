@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 class Point
 {
     private:
@@ -27,6 +28,7 @@ class Point
 
 Point operator+(Point p1, Point p2)
 {
+
     Point temp;
     temp.x=p1.x+p2.x;
     temp.y=p1.y+p2.y;
