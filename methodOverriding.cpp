@@ -25,7 +25,7 @@ class Employee
             this->dailyAllowance=dailyAllowance;
         }
 
-        double computePay()
+        virtual double computePay()
         {
             double package=basicSalary+(workingDays*dailyAllowance);
             return package;
@@ -55,7 +55,7 @@ class Manager:public Employee
             this->bonus=bonus;
         }
 
-        double computePay()
+        double computePay() override
         {
             double package=basicSalary+(workingDays*dailyAllowance)+bonus;
             return package;
@@ -64,15 +64,40 @@ class Manager:public Employee
 };
 int main()
 {
+    cout<<"\n\n Employee 1";
     Employee employee1;
     employee1.display();
     double packageEmployee1=employee1.computePay();
     cout<<"\nPackage: "<<packageEmployee1;
 
+    cout<<"\n\n Employee 2";
      Employee employee2("sumit bhor",256000,25,2000);
     employee2.display();
     double packageEmployee2=employee2.computePay();
     cout<<"\nPackage: "<<packageEmployee2;
+
+    cout<<"\n\n manager 1";
+    Manager manager1;
+    manager1.display();
+    double packageManager1=manager1.computePay();
+    cout<<"\nPackage: "<<packageManager1;
+
+
+    cout<<"\n\n manager 2";
+    Manager manager2("sumit bhor",256000,25,2000,120000);
+    manager2.display();
+    double packageManager2=manager2.computePay();
+    cout<<"\nPackage: "<<packageManager2;
+
+
+
+    cout<<"\n\n manager 3";
+    Employee *ptrEmp=new Manager("rishika narawade",25000,25,2000,12000);
+    ptrEmp->display();
+    double packageEmployee3=ptrEmp->computePay();
+    cout<<"\nPackage: "<<packageEmployee3;
+
+
 
     return 0;
 }
