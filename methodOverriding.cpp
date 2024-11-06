@@ -1,3 +1,8 @@
+/* 
+write a c++ program to implement method overring have class name as 'employee' and 'manager' 
+perform calculation of total package by overrideing computePay() function 
+-------------------------------------------------------------------
+*/
 #include<iostream>
 using namespace std;
 
@@ -90,14 +95,13 @@ int main()
     cout<<"\nPackage: "<<packageManager2;
 
 
-
+// in this case when we do not use virtual function for overriding then it call the computePay() function of employee call
+// but by using virtual it override the base class function add call the function of manager class 
     cout<<"\n\n manager 3";
     Employee *ptrEmp=new Manager("rishika narawade",25000,25,2000,12000);
     ptrEmp->display();
     double packageEmployee3=ptrEmp->computePay();
     cout<<"\nPackage: "<<packageEmployee3;
-
-
 
     return 0;
 }
