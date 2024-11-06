@@ -31,6 +31,14 @@ class Employee
             return package;
         }
 
+        void display()
+        {
+            cout<<"\n\nname:"<<this->name;
+            cout<<"\nBasic Salary: "<<this->basicSalary;
+            cout<<"\nWorking Days: "<<this->workingDays;
+            cout<<"\ndaily allowance: "<<this->dailyAllowance;
+        }
+
 };
 
 class Manager:public Employee
@@ -56,5 +64,15 @@ class Manager:public Employee
 };
 int main()
 {
+    Employee employee1;
+    employee1.display();
+    double packageEmployee1=employee1.computePay();
+    cout<<"\nPackage: "<<packageEmployee1;
+
+     Employee employee2("sumit bhor",256000,25,2000);
+    employee2.display();
+    double packageEmployee2=employee2.computePay();
+    cout<<"\nPackage: "<<packageEmployee2;
+
     return 0;
 }
