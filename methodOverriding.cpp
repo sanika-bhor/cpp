@@ -5,7 +5,6 @@ perform calculation of total package by overrideing computePay() function
 */
 #include<iostream>
 using namespace std;
-
 class Employee
 {
     protected:
@@ -66,6 +65,30 @@ class Manager:public Employee
             return package;
         }
 
+};
+
+
+class director:public Employee
+{
+    private:
+        int shareholding;
+        int earningPerShare;
+    public:
+        director()
+        {
+            shareholding=10;
+            earningPerShare=2000;
+        }
+        director(string name, double basicSalary, int workingDays, double dailyAllowance, double bonus ,int shareholding, int earningPerShare) : Employee(name, basicSalary, workingDays, dailyAllowance)
+        {
+            this->shareholding=shareholding;
+            this->earningPerShare=earningPerShare;
+        }
+        double computePay() override
+        {
+            double package = basicSalary + (workingDays * dailyAllowance) + (shareholding * (earningPerShare));
+            return package;
+        }
 };
 int main()
 {
