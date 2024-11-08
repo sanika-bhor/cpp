@@ -90,6 +90,27 @@ class director:public Employee
             return package;
         }
 };
+
+class ceo : public Employee
+{
+private:
+    double monthlyIncentive;
+
+public:
+    ceo()
+    {
+        monthlyIncentive = 5000;
+    }
+    ceo(string name, double basicSalary, int workingDays, double dailyAllowance, double bonus, double monthlyIncentive) : Employee(name, basicSalary, workingDays, dailyAllowance)
+    {
+        this->monthlyIncentive = monthlyIncentive;
+    }
+    double computePay() override
+    {
+        double package = basicSalary + (workingDays * dailyAllowance) + monthlyIncentive;
+        return package;
+    }
+};
 int main()
 {
     cout<<"\n\n Employee 1";
