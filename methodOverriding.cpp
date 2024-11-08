@@ -79,7 +79,7 @@ class director:public Employee
             shareholding=10;
             earningPerShare=2000;
         }
-        director(string name, double basicSalary, int workingDays, double dailyAllowance, double bonus ,int shareholding, int earningPerShare) : Employee(name, basicSalary, workingDays, dailyAllowance)
+        director(string name, double basicSalary, int workingDays, double dailyAllowance ,int shareholding, int earningPerShare) : Employee(name, basicSalary, workingDays, dailyAllowance)
         {
             this->shareholding=shareholding;
             this->earningPerShare=earningPerShare;
@@ -101,7 +101,7 @@ public:
     {
         monthlyIncentive = 5000;
     }
-    ceo(string name, double basicSalary, int workingDays, double dailyAllowance, double bonus, double monthlyIncentive) : Employee(name, basicSalary, workingDays, dailyAllowance)
+    ceo(string name, double basicSalary, int workingDays, double dailyAllowance, double monthlyIncentive) : Employee(name, basicSalary, workingDays, dailyAllowance)
     {
         this->monthlyIncentive = monthlyIncentive;
     }
@@ -146,6 +146,18 @@ int main()
     ptrEmp->display();
     double packageEmployee3=ptrEmp->computePay();
     cout<<"\nPackage: "<<packageEmployee3;
+
+    cout << "\n\n director";
+    Employee *ptrEmpDirector = new director("rishika narawade", 25000, 25, 2000, 20,5000);
+    ptrEmpDirector->display();
+    double packageEmployee4 = ptrEmpDirector->computePay();
+    cout << "\nPackage: " << packageEmployee4;
+
+    cout << "\n\n CEO";
+    Employee *ptrEmpCEO = new ceo("rishika narawade", 25000, 25, 2000, 200000);
+    ptrEmpCEO->display();
+    double packageEmployee5 = ptrEmpCEO->computePay();
+    cout << "\nPackage: " << packageEmployee5;
 
     return 0;
 }
