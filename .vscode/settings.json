@@ -60,6 +60,7 @@
     "*.embeddedhtml": "html",
     "iostream": "cpp",
     "vector": "cpp",
-    "sstream": "cpp"
+    "sstream": "cpp",
+    "iosfwd": "cpp"
   }
 }
