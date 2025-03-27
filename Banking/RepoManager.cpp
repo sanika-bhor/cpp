@@ -1,20 +1,20 @@
-#include<RepoManager.h>
-#include <Account.h>
+#include"RepoManager.h"
 #include <iostream>
 #include <fstream>
 using namespace std;
 
 namespace Bank
 {
-        void RepoManager::saveAccountDetails()
+    // Account RepoManager::currentAccount;
+    void RepoManager::saveAccountDetails()
+    {
+        ofstream outfile("Account.dat");
+        if (outfile.is_open())
         {
-            ofstream outfile("Account.dat");
-            if (outfile.is_open())
-            {
-                currentAccount.serialization(outfile);
-                cout << "\nAccount details saved successfully";
-                outfile.close();
-            }
+            currentAccount.serialization(outfile);
+            cout << "\nAccount details saved successfully";
+            outfile.close();
+        }
         }
 
         void RepoManager::getAccountDetails()

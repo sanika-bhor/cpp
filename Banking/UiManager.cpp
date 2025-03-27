@@ -1,11 +1,9 @@
 
-#include<UiManager.h>
+#include"UiManager.h"
 namespace Bank
 {
-    class UiManager
-    {
-    public:
-        void displayMenu()
+  
+        void UiManager::displayMenu()
         {
             cout << "\n******OPERATION*********";
             cout << "\n1. check Balance";
@@ -15,6 +13,6 @@ namespace Bank
             cout << "\n5. Change user Name";
             cout << "\n6. Exit";
         }
-    };
+
 
 }
