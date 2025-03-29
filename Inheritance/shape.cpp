@@ -1,6 +1,4 @@
-#include <iostream>
 #include"shape.h"
-using namespace std;
 namespace drawing
 {
         Shape::Shape()
@@ -9,9 +7,9 @@ namespace drawing
             color = "Black";
         }
 
-        Shape::Shape(int thick, string color)
+        Shape::Shape(int thick, string c)
         {
             thickness=thick;
-            color=color;
+            color=c;
         }
 }

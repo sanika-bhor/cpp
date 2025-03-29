@@ -1,6 +1,4 @@
-#include <iostream>
 #include "point.h"
-using namespace std;
 namespace drawing
 {
     Point::Point()
