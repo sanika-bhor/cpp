@@ -8,7 +8,7 @@ void display_hello()
     while (i<5)
     {
         cout << "Hello, World! from thread 1" << endl;
-        this_thread::sleep_for(chrono::seconds(3));
+        this_thread::sleep_for(chrono::seconds(1));
         i++;
     }
 }
@@ -19,7 +19,7 @@ void display_bye()
     while (i < 5)
     {
         cout << "Bye, World! from thread 2" << endl;
-        this_thread::sleep_for(chrono::seconds(7));
+        this_thread::sleep_for(chrono::seconds(2));
         i++;
     }
 }
