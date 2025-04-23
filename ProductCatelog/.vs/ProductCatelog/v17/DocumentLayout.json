@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\ProductService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\ProductService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\ProductRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductIOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\ProductIOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC4581E5-80F9-4E04-83F0-F1AD6D8F85EB}|ProductCatelog\\ProductCatelog.vcxproj|solutionrelative:ProductCatelog\\ProductController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Main.cpp",
+              "RelativeDocumentMoniker": "ProductCatelog\\Main.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Main.cpp",
+              "RelativeToolTip": "ProductCatelog\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T15:21:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductRepository.h",
+              "RelativeDocumentMoniker": "ProductCatelog\\ProductRepository.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductRepository.h",
+              "RelativeToolTip": "ProductCatelog\\ProductRepository.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T15:20:05.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductIOManager.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductIOManager.h",
+              "RelativeDocumentMoniker": "ProductCatelog\\ProductIOManager.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductIOManager.h",
+              "RelativeToolTip": "ProductCatelog\\ProductIOManager.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T15:19:03.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductService.h",
+              "RelativeDocumentMoniker": "ProductCatelog\\ProductService.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductService.h",
+              "RelativeToolTip": "ProductCatelog\\ProductService.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T15:16:30.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\UIManager.h",
+              "RelativeDocumentMoniker": "ProductCatelog\\UIManager.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\UIManager.h",
+              "RelativeToolTip": "ProductCatelog\\UIManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T15:15:30.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Product.cpp",
+              "RelativeDocumentMoniker": "ProductCatelog\\Product.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Product.cpp",
+              "RelativeToolTip": "ProductCatelog\\Product.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T12:04:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductService.cpp",
+              "RelativeDocumentMoniker": "ProductCatelog\\ProductService.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductService.cpp",
+              "RelativeToolTip": "ProductCatelog\\ProductService.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T15:17:16.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\UIManager.cpp",
+              "RelativeDocumentMoniker": "ProductCatelog\\UIManager.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\UIManager.cpp",
+              "RelativeToolTip": "ProductCatelog\\UIManager.cpp",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAUwKAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T15:15:44.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Product.h",
+              "RelativeDocumentMoniker": "ProductCatelog\\Product.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\Product.h",
+              "RelativeToolTip": "ProductCatelog\\Product.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T12:03:43.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductController.h",
+              "RelativeDocumentMoniker": "ProductCatelog\\ProductController.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\ProductCatelog\\ProductCatelog\\ProductController.h",
+              "RelativeToolTip": "ProductCatelog\\ProductController.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T15:17:58.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
