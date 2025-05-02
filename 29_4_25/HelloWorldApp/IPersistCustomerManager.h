@@ -14,7 +14,7 @@ public:
 
 
 	virtual std::vector<Customer> loadCustomers() = 0;
-	virtual  void saveCustomers(const std::vector<Customer>& customers) = 0;
+	virtual  void saveCustomers( std::vector<Customer>& customers) = 0;
 
 	virtual void displayCustomer(const std::vector<Customer>& customers) = 0;
 

@@ -53,9 +53,9 @@ int main()
 	//shot syntax;
 
 	 customers = {
-					Customer(1,"Sanika","bhorsanika0239@gmail.com","8446756339","Awasari"),
-					Customer(1,"sarthak","sarthak@gmail.com","999999999","pune"),
-					Customer(1,"kajal","kajal@gmail.com","888888888","pune")
+					Customer(1,"Sanika","sanika@gmail.com","5555","pune"),
+					Customer(2,"sarthak","sarthak@gmail.com","9999","pune"),
+					Customer(3,"kajal","kajal@gmail.com","8888","pune")
 	 };
 
 	CustomerBinaryIOManager mgr;
@@ -64,6 +64,7 @@ int main()
 
 	auto loadedProducts = mgr.loadCustomers();
 
+	cout << "data loading..." << endl;
 	for ( auto& p : loadedProducts) {
 		p.display();
 	}

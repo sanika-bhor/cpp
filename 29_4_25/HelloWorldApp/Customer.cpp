@@ -4,6 +4,8 @@
 #include <string>
 using namespace std;
 
+Customer::Customer() : customerId(0), name(""), email(""), phoneNumber(""), address("") {
+}
 Customer::Customer(int id, const std::string& n, const std::string& e, const std::string& p, const std::string& a)
 	: customerId(id), name(n), email(e), phoneNumber(p), address(a) {
 }
@@ -26,9 +28,8 @@ void Customer::display() const {
 
 
 void Customer::serialize(ofstream& outFile) {
-	if (!outFile) {
+	if (!outFile.is_open()) {
 		std::cerr << "Error opening file for writing." << std::endl;
-
 	}
 	else
 	{
@@ -56,7 +57,7 @@ void Customer::serialize(ofstream& outFile) {
 		outFile.write(address.c_str(), addressLength);
 
 		cout<<"Customer data serialized successfully." << endl;
-		outFile.close();
+		
 	}
 }
 void  Customer::deserialize(ifstream& inFile)

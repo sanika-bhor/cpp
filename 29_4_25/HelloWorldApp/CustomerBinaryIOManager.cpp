@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-void CustomerBinaryIOManager::saveCustomers( const std::vector<Customer>& customers)
+void CustomerBinaryIOManager::saveCustomers(  std::vector<Customer>& customers)
 {
 	string fileName = "customers.dat";
 	
@@ -16,10 +16,11 @@ void CustomerBinaryIOManager::saveCustomers( const std::vector<Customer>& custom
 	else
 	{
 		size_t size = customers.size();
-		outFile.write(reinterpret_cast<char*>(&size), sizeof(size));
-		for (auto& customer : customers) {
+	    outFile.write(reinterpret_cast<char*>(&size), sizeof(size));
+		for ( auto& customer : customers) {
 			customer.serialize(outFile);
 		}
+		cout << "data saved successfully"<<endl; 
 	}
 	
 }
@@ -46,7 +47,12 @@ vector<Customer> CustomerBinaryIOManager::loadCustomers()
 	return customers;
 }
 
-void displayCustomer(const std::vector<Customer>& cutomers) {}
-void addCustomer(std::vector<Customer>& cutomers, const Customer& customer) {}
-void removeCustomer(std::vector<Customer>& cutomers, int cutomerId) {}
-void updateCustomer(std::vector<Customer>& cutomers, const Customer& updatedcutomer) {}
+void CustomerBinaryIOManager::displayCustomer(const std::vector<Customer>& cutomers) {
+
+
+}
+
+
+void CustomerBinaryIOManager::addCustomer(std::vector<Customer>& cutomers, const Customer& customer) {}
+void CustomerBinaryIOManager::removeCustomer(std::vector<Customer>& cutomers, int cutomerId) {}
+void CustomerBinaryIOManager::updateCustomer(std::vector<Customer>& cutomers, const Customer& updatedcutomer) {}

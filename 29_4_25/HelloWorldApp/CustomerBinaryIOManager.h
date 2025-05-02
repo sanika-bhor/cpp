@@ -10,9 +10,9 @@ class CustomerBinaryIOManager: public IPersistCustomerManager
 public:
 
 	
-	void saveCustomers(const std::vector<Customer>& cutomers) override;
+	void saveCustomers( std::vector<Customer>& cutomers) override;
 	std::vector<Customer> loadCustomers() override;
-	void displayCustomer(const std::vector<Customer>& cutomers) override;
+	 void displayCustomer(const std::vector<Customer>& customers) override;
 	void addCustomer(std::vector<Customer>& cutomers, const Customer& customer) override;
 	void removeCustomer(std::vector<Customer>& cutomers, int cutomerId) override;
 	void updateCustomer(std::vector<Customer>& cutomers, const Customer& updatedcutomer) override;

@@ -1,0 +1,14 @@
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\Customer.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\Customer.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\CustomerBinaryIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\CustomerBinaryIOManager.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\CustomersController.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\CustomersController.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\IPersistCustomerManager.h;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\IPersistCustomerManager.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductBinaryIOManger.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductBinaryIOManger.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductCSVIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductCSVIOManager.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductJSONIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductJSONIOManager.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductTextIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductTextIOManager.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductsController.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductsController.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\Main.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\Main.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\Product.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\Product.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductRepository.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductRepository.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductService.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductService.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\UIManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\UIManager.obj

@@ -14,6 +14,7 @@ private:
 	std::string address;
 public:
 
+	Customer();
 	Customer(int id, const std::string& n, const std::string& e, const std::string& p, const std::string& a);
 		
 	int getCustomerId() const;
