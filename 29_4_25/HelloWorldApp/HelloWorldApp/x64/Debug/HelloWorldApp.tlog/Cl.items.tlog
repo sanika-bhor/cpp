@@ -2,6 +2,7 @@ A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\Customer.cpp;A:\TAP\GitHub\cpp\29_4_25\H
 A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\CustomerBinaryIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\CustomerBinaryIOManager.obj
 A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\CustomersController.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\CustomersController.obj
 A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\IPersistCustomerManager.h;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\IPersistCustomerManager.obj
+A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\IRepository.h;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\IRepository.obj
 A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductBinaryIOManger.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductBinaryIOManger.obj
 A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductCSVIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductCSVIOManager.obj
 A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\ProductJSONIOManager.cpp;A:\TAP\GitHub\cpp\29_4_25\HelloWorldApp\HelloWorldApp\x64\Debug\ProductJSONIOManager.obj

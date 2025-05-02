@@ -96,6 +96,9 @@
     <ClCompile Include="UICustomerManager.cpp">
       <Filter>Source Files\UI</Filter>
     </ClCompile>
+    <ClCompile Include="IRepository.h">
+      <Filter>Header Files\Repositories</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProductsController.h">
@@ -139,6 +142,9 @@
     </ClInclude>
     <ClInclude Include="UICustomerManager.h">
       <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="IService.h">
+      <Filter>Header Files\Services</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

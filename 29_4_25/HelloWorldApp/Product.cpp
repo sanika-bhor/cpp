@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//Implementation of Product class methods
+//Implementation of Product class methods4
 
 Product::Product(int id) : productId(id), quantity(0), price(0.0) {}
 Product::Product(int id, const string& t, const string& d, const string& c, int q, double p)

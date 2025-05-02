@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:IRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\ProductRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:ProductRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\CustomerBinaryIOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:CustomerBinaryIOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:IPersistManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\ProductService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:ProductService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:IService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:UICustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:UICustomerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistCustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:IPersistCustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,24 +55,8 @@
       "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\CustomerBinaryIOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:CustomerBinaryIOManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:UICustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\CustomerBinaryIOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:CustomerBinaryIOManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistCustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|solutionrelative:IPersistCustomerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C3D166C-2F94-4C97-9393-870D9C475BFE}|HelloWorldApp.vcxproj|A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,45 +70,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UICustomerManager.cpp",
-              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.cpp",
-              "RelativeDocumentMoniker": "UICustomerManager.cpp",
-              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.cpp",
-              "RelativeToolTip": "UICustomerManager.cpp",
-              "ViewState": "AQIAACYAAAAAAAAAAAApwEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T09:05:42.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UICustomerManager.h",
-              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.h",
-              "RelativeDocumentMoniker": "UICustomerManager.h",
-              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.h",
-              "RelativeToolTip": "UICustomerManager.h",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T08:43:17.864Z",
+              "Title": "Product.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Product.cpp",
+              "RelativeDocumentMoniker": "Product.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Product.cpp",
+              "RelativeToolTip": "Product.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T10:58:44.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UIManager.cpp",
-              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UIManager.cpp",
-              "RelativeDocumentMoniker": "UIManager.cpp",
-              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UIManager.cpp",
-              "RelativeToolTip": "UIManager.cpp",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T08:34:07.04Z",
+              "DocumentIndex": 5,
+              "Title": "ProductService.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\ProductService.h",
+              "RelativeDocumentMoniker": "ProductService.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\ProductService.h",
+              "RelativeToolTip": "ProductService.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T10:40:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IService.h",
+              "RelativeDocumentMoniker": "IService.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IService.h",
+              "RelativeToolTip": "IService.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T10:31:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersistManager.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistManager.h",
+              "RelativeDocumentMoniker": "IPersistManager.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistManager.h",
+              "RelativeToolTip": "IPersistManager.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T10:06:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\ProductRepository.h",
+              "RelativeDocumentMoniker": "ProductRepository.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\ProductRepository.h",
+              "RelativeToolTip": "ProductRepository.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vwwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T09:59:05.764Z",
               "EditorCaption": ""
             },
             {
@@ -93,58 +143,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "IRepository.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IRepository.h",
+              "RelativeDocumentMoniker": "IRepository.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IRepository.h",
+              "RelativeToolTip": "IRepository.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T09:59:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UICustomerManager.h",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.h",
+              "RelativeDocumentMoniker": "UICustomerManager.h",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.h",
+              "RelativeToolTip": "UICustomerManager.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T08:43:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CustomerBinaryIOManager.cpp",
               "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\CustomerBinaryIOManager.cpp",
               "RelativeDocumentMoniker": "CustomerBinaryIOManager.cpp",
               "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\CustomerBinaryIOManager.cpp",
               "RelativeToolTip": "CustomerBinaryIOManager.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAtAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAADEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-02T06:14:52.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "UICustomerManager.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.cpp",
+              "RelativeDocumentMoniker": "UICustomerManager.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UICustomerManager.cpp",
+              "RelativeToolTip": "UICustomerManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T09:05:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UIManager.cpp",
+              "RelativeDocumentMoniker": "UIManager.cpp",
+              "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\UIManager.cpp",
+              "RelativeToolTip": "UIManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T08:34:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Main.cpp",
               "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-01T11:28:01.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IPersistCustomerManager.h",
               "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistCustomerManager.h",
               "RelativeDocumentMoniker": "IPersistCustomerManager.h",
               "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\IPersistCustomerManager.h",
               "RelativeToolTip": "IPersistCustomerManager.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswBIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T10:56:26.388Z"
+              "WhenOpened": "2025-05-01T10:56:26.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Customer.cpp",
               "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Customer.cpp",
               "RelativeDocumentMoniker": "Customer.cpp",
               "ToolTip": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Customer.cpp",
               "RelativeToolTip": "Customer.cpp",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAAGIAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-01T10:06:27.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Customer.h",
               "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\Customer.h",
               "RelativeDocumentMoniker": "Customer.h",
@@ -156,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "CustomerBinaryIOManager.h",
               "DocumentMoniker": "A:\\TAP\\GitHub\\cpp\\29_4_25\\HelloWorldApp\\CustomerBinaryIOManager.h",
               "RelativeDocumentMoniker": "CustomerBinaryIOManager.h",

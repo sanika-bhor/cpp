@@ -65,9 +65,6 @@ void UICustomerManager::getCustomerName(string& title) {
 	std::cin.ignore();
 	std::getline(std::cin, title);
 }
-
-
-
 void UICustomerManager::handleUserInput(CustomerBinaryIOManager& ioMgr) {
 	int choice;
 	vector<Customer> customers = ioMgr.loadCustomers();

@@ -6,23 +6,23 @@
  #include "Product.h"
 #include "ProductRepository.h"	
  
-
+#include "IService.h"
 // Forward declaration of ProductRepository
 class ProductRepository;
 
 using namespace std;
 #pragma once
-class ProductService {
+class ProductService:IService {
 
 private:
 	ProductRepository& repo; 
 
 public:
 	ProductService(ProductRepository& r);
-	void applyDiscount(int productId, double discount);
-	void calculateTotalPrice(int productId);
-	void searchProductByTitle(const std::string& title);
-	void saveProducts();
+	void applyDiscount(int productId, double discount) override;
+	void calculateTotalPrice(int productId) override;
+	void searchProductByTitle(const std::string& title) override;
+	void saveProducts() override;
 };
 
 

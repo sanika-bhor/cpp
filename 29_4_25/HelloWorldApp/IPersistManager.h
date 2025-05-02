@@ -23,4 +23,3 @@ public:
 	virtual void updateProduct(std::vector<Product>& products, const Product& updatedProduct) = 0;
 };
 
-#pragma once
