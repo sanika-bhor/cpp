@@ -93,6 +93,9 @@
     <ClCompile Include="IPersistCustomerManager.h">
       <Filter>Header Files\Helpers</Filter>
     </ClCompile>
+    <ClCompile Include="UICustomerManager.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProductsController.h">
@@ -133,6 +136,9 @@
     </ClInclude>
     <ClInclude Include="CustomerBinaryIOManager.h">
       <Filter>Header Files\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="UICustomerManager.h">
+      <Filter>Header Files\UI</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

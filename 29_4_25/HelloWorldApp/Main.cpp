@@ -12,6 +12,7 @@
 #include "UIManager.h"
 #include "Customer.h"
 #include "CustomerBinaryIOManager.h"
+#include "UICustomerManager.h"
 
 
 using namespace std;
@@ -20,21 +21,8 @@ int main()
 
 	std::cout << "Welcome to Transflower Store!\n";
 	std::vector<Customer> customers;
- 	//IPersistManager* ptrMgr = new ProductTextIOManager();
 	IPersistCustomerManager* ptrMgr = new CustomerBinaryIOManager();
-	//IPersistManager* ptrMgr = new ProductJSONIOManager();
 
-
-	/*
-	products = ptrMgr->loadProducts();
-	// Add products to the repository  from vector container
-	ProductRepository repo;
-	for (const auto& product : products) {
-		Product* pProduct = new Product(product.getProductId(), product.getTitle(), product.getDescription(), product.getCategory(), product.getQuantity(), product.getPrice());
-		repo.addProduct(pProduct);
-	}
-
-	*/
 
 	//Set up User Interface
 	/*	UIManager uiManager;
@@ -43,16 +31,20 @@ int main()
 		ProductsController controller(repo, service); //controller
 	*/
 
+		UICustomerManager uiManager;
+		CustomerBinaryIOManager iomgr;
+
+
 	// Display the menu and handle user input
 	//Console Menu Driven  User ineraction
 
-	/*	uiManager.displayWelcomeMessage(); // Display welcome message
-		uiManager.handleUserInput(controller); // Handle user input through the UIManager
-	*/
+		uiManager.displayWelcomeMessage(); // Display welcome message
+		uiManager.handleUserInput(iomgr); // Handle user input through the UIManager
+	
 
 	//shot syntax;
 
-	 customers = {
+	/* customers = {
 					Customer(1,"Sanika","sanika@gmail.com","5555","pune"),
 					Customer(2,"sarthak","sarthak@gmail.com","9999","pune"),
 					Customer(3,"kajal","kajal@gmail.com","8888","pune")
@@ -68,7 +60,7 @@ int main()
 	for ( auto& p : loadedProducts) {
 		p.display();
 	}
-
+	*/
 	return 0;
 }
 

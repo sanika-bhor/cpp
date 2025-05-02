@@ -140,6 +140,7 @@
     <ClCompile Include="Product.cpp" />
     <ClCompile Include="ProductRepository.cpp" />
     <ClCompile Include="ProductService.cpp" />
+    <ClCompile Include="UICustomerManager.cpp" />
     <ClCompile Include="UIManager.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -155,6 +156,7 @@
     <ClInclude Include="ProductRepository.h" />
     <ClInclude Include="ProductsController.h" />
     <ClInclude Include="ProductService.h" />
+    <ClInclude Include="UICustomerManager.h" />
     <ClInclude Include="UIManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

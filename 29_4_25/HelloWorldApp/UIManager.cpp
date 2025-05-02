@@ -20,25 +20,18 @@ using namespace std;
 	void UIManager::displaySuccessMessage(const std::string& message) {
 		std::cout << "Success: " << message << std::endl;
 	}
-
-
 	void UIManager::displayProductDetails(const Product& product) {
 		product.display();
 	}
-
 	void UIManager::displayProducts(const ProductRepository& repo) {
 		repo.displayProducts();
 	}
-
 	void UIManager::displayProductNotFound() {
 		std::cout << "Product not found!" << std::endl;
 	}
-
 	void UIManager::displayProductAdded() {
 		std::cout << "Product added successfully!" << std::endl;
 	}
-
-
 	void UIManager::displayMenu() {
 		std::cout << "1. Add Product" << std::endl;
 		std::cout << "2. Update Product" << std::endl;
@@ -50,7 +43,6 @@ using namespace std;
 		std::cout << "8. Exit" << std::endl;
 		std::cout << "9. Add To File" << std::endl;
 	}
-
 	void UIManager::getProductDetails(int& id, string& title, string& description, string& category, int& quantity, double& price) {
 		std::cout << "Enter Product ID: ";
 		std::cin >> id;
@@ -66,33 +58,25 @@ using namespace std;
 		std::cout << "Enter Price: ";
 		std::cin >> price;
 	}
-
 	void UIManager::getDiscountDetails(int& productId, double& discount) {
 		std::cout << "Enter Product ID: ";
 		std::cin >> productId;
 		std::cout << "Enter Discount Percentage: ";
 		std::cin >> discount;
 	}
-
-
 	void UIManager::getProductId(int& productId) {
 		std::cout << "Enter Product ID: ";
 		std::cin >> productId;
 	}
-
-
 	void UIManager::getProductIndex(int& index) {
 		std::cout << "Enter Product Index: ";
 		std::cin >> index;
 	}
-
-
 	void UIManager::getProductTitle(string& title) {
 		std::cout << "Enter Product Title: ";
 		std::cin.ignore();
 		std::getline(std::cin, title);
 	}
-
 	void UIManager::handleUserInput(ProductsController& controller) {
 		int choice;
 		do {
