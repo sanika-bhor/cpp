@@ -100,6 +100,25 @@
     "streambuf": "cpp",
     "typeinfo": "cpp",
     "chrono": "cpp",
-    "future": "cpp"
+    "future": "cpp",
+    "bit": "cpp",
+    "charconv": "cpp",
+    "compare": "cpp",
+    "concepts": "cpp",
+    "condition_variable": "cpp",
+    "ctime": "cpp",
+    "optional": "cpp",
+    "ratio": "cpp",
+    "string_view": "cpp",
+    "format": "cpp",
+    "iomanip": "cpp",
+    "mutex": "cpp",
+    "numbers": "cpp",
+    "semaphore": "cpp",
+    "span": "cpp",
+    "stop_token": "cpp",
+    "text_encoding": "cpp",
+    "thread": "cpp",
+    "variant": "cpp"
   }
 }
